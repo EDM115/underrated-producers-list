@@ -340,7 +340,7 @@ p {
 #hero {
 	width: 100%;
 	height: 100vh;
-	background: url("../assets/img/hero-bg.jpg") center center no-repeat;
+	background: url("./assets/img/hero-bg.jpg") center center no-repeat;
 	background-size: cover;
 	position: relative;
 }
@@ -597,7 +597,7 @@ section {
 }
 
 #footer {
-	background: url("../assets/img/hero-bg.jpg") center center no-repeat;
+	background: url("./assets/img/hero-bg.jpg") center center no-repeat;
 	background-size: cover;
 	position: relative;
 	color: #eef7ff;
